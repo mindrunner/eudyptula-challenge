@@ -1,0 +1,23 @@
+[∗] Spawning a shell.
+[    1.396016] tsc: Refined TSC clocksource calibration: 2793.659 MHz
+[    1.396524] clocksource: tsc: mask: 0xffffffffffffffff max_cycles: 0x2844dadfc97, max_idle_ns: 440795340320 ns
+                   -`
+                  .o+`                 @eudyptula-4-10-0-rc3-ARCH-00251-gf0ad17712b9f
+                 `ooo/                 OS: Arch Linux 
+                `+oooo:                Kernel: x86_64 Linux 4.10.0-rc3-ARCH-00251-gf0ad17712b9f
+               `+oooooo:               Uptime: 0m
+               -+oooooo+:              Packages: 1133
+             `/:-:++oooo+:             Shell: bash i
+            `/++++/+++++++:            CPU: QEMU Virtual CPU version 2.5+ @ 2.794GHz
+           `/++++++++++++++:           RAM: 23MiB / 115MiB
+          `/+++ooooooooooooo/`        
+         ./ooosssso++osssssso+`       
+        .oossssso-````/ossssss+`      
+       -osssssso.      :ssssssso.     
+      :osssssss/        osssso+++.    
+     /ossssssss/        +ssssooo/-    
+   `/ossssso+/:-        -:/+osssso+-  
+  `+sso+:-`                 `.-/+oso: 
+ `++:.                           `-/+/
+ .`                                 `/
+[root@eudyptula-4-10-0-rc3-ARCH-00251-gf0ad17712b9f]: ~/src/linux>$
